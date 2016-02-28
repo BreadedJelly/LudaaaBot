@@ -1,24 +1,4 @@
-# Red - A multifunction Discord bot
-#### *Fun bringer, admin helper and music bot*  
-[<img align="right" title="Art by Supergiant Games" src="https://www.supergiantgames.com/static/images/transistor/cartoon_red.png">](https://www.supergiantgames.com/games/transistor/)
 
-[<img src="https://img.shields.io/badge/Support-me!-orange.svg">](https://www.patreon.com/Twentysix26) [<img src="https://img.shields.io/badge/Official-Server-green.svg">](https://discord.gg/0k4npTwMvTpv9wrh) **< Announcements & Help!**  
-##**[ [This version is obsolete and no longer being supported. Use the current one] ](https://github.com/Twentysix26/Red-DiscordBot/)**  
-### Cool title, but what does it do exactly?
-A bit of everything. Seriously though:  
-It has the [most common features](#general-commands) of many chatbots (!flip, !8, stopwatch, etc.), **custom commands** (inspired by Twitch's [Nightbot](https://www.nightbot.tv/)), memes.  
-It features some games such as **Trivia**, rock paper scissors, [users can earn and play with credits](#economy-commands) in the slot machine.  
-[The audio part is quite fleshed out](#audio-commands). Users can **stream youtube videos**, create **playlists** that everyone will be able to play and control (previous/next song, pause/resume, shuffle...).  
-**MP3 and flac files can also be streamed** (see [FAQ](#faq) for details on local playlists)  
-**Twitch's online notifications**: Red will notify the channels you want whenever you favorite Twitch streamers are online.  
-As for the moderation tools, it includes a **powerful message filter with regular expression capabilities** and **mass messages cleanup**.  
-[I'm planning to expand all this much more](#todo-list).  
-See the [command list](#general-commands) for an even better idea of what this bot can do.
-
-### I don't even know what I'm looking at. How do I install this?
-Do not panic. [Enter the wiki and follow the tutorials](https://github.com/Twentysix26/Red-DiscordBot/wiki)!  
-If you have any issue, consult the [troubleshooting](https://github.com/Twentysix26/Red-DiscordBot/wiki/Troubleshooting) page, and if you're still stuck, [join the official server](https://discord.gg/0k4npTwMvTpv9wrh) so you can get some help.
-Once you're done, take a look at the command list and have fun.
 
 ### General commands
 
