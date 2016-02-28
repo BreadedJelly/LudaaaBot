@@ -91,11 +91,7 @@
 | !slot help  | Slot machine explanation and payouts |
 | !payday     | Receive credits                      |
 
-### FAQ
->I've done everything the README asked me to and it still doesn't work! Were you drunk when you coded this?  
 
-You're probably missing something.  
-Feel free to join [my server](https://discord.gg/0k4npTwMvTpv9wrh) and head to #support to get some help! Oh, and my drinking habits are none of your business.  
 
 >Does this bot work on multiple servers?  
 
@@ -115,9 +111,8 @@ with !local or !locallist. They can also add tracks to their favorites.
 
 Everytime you play the audio of a youtube video with download mode on the audio will be first downloaded and stored into the "cache" folder. It is recommended that you use this mode to avoid streaming problems. This is the default mode, you can switch between modes with !downloadmode.
 
->Why is this bot called Red and the admin role "Transistor"? What's the meaning of !sing?
 
-They're all references to [Transistor](https://www.supergiantgames.com/games/transistor/), a videogame by Supergiant Games.
+
 
 ### TODO List
 - [x] [Start rewriting Red](https://github.com/Twentysix26/Red-DiscordBot/tree/develop)
